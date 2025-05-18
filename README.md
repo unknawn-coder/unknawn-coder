@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I am Akash :
 💻 Full-Stack Developer | Passionate Coder | Future Tech Leader<br><br>Eager to bring fresh energy and full-stack skills to real-world projects. A Graduate with hands-on experience building responsive web apps using HTML, CSS, JavaScript, React, Node.js, Express.js, RESTful APIs and MySQL through personal projects, internships, and academic work.<br><br>🧠 What I Bring:<br>✔️ A solid grasp of front-end and back-end development<br>✔️ Quick learning, clean coding, and a collaborative spirit<br>✔️ A hunger to grow, build, and solve real-world problems<br><br>🚀 From writing my first “Hello World” to deploying full-stack apps, I’m ready to code my way into the future.<br><br>Let’s build something amazing together!
 
 
@@ -10,6 +10,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unknawn-coder/unknawn-coder/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/unknawn-coder/unknawn-coder/output/github-snake.svg" />
 </picture>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=unknawn-coder&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=unknawn-coder&theme=merko&hide_border=false)<br/>
